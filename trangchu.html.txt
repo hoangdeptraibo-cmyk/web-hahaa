@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Trang chủ - Website của Hoàng</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            text-align: center;
+        }
+        nav {
+            background: #007acc;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        h1 {
+            color: #007acc;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Trang chủ</a>
+        <a href="thongtin.html">Thông tin</a>
+        <a href="dichvu.html">Dịch vụ</a>
+    </nav>
+
+    <h1>Chào mừng đến với trang web của Hoàng 😎</h1>
+    <p>Đây là trang chủ của website, được xây bằng GitHub Pages.</p>
+</body>
+</html>
